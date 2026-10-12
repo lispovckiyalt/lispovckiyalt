@@ -12,14 +12,10 @@
 
 ## stats
 <div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=lispovckiyalt&theme=prussian&show_icons=true&hide_border=true&count_private=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lispovckiyalt&theme=prussian&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lispovckiyalt&theme=prussian&hide_border=true&layout=compact)
-
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=lispovckiyalt&theme=prussian&show_icons=true&hide_border=true&count_private=true&hide_title=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lispovckiyalt&theme=prussian&hide_border=true&layout=compact&hide_title=true"/>
 </div>
+
 
 ## setup
 `Ryzen 5 PRO 2400G · GTX 1060 · 16GB DDR4`
