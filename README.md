@@ -19,12 +19,9 @@
 ## stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lispovckiyalt&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=e0e0e0&text_color=8b8b8b&icon_color=8b8b8b" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lispovckiyalt&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=e0e0e0&text_color=8b8b8b" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lispovckiyalt&hide_border=true&background=0D1117&stroke=0D1117&ring=8B8B8B&fire=8B8B8B&currStreakLabel=E0E0E0&sideLabels=8B8B8B&currStreakNum=E0E0E0&sideNums=E0E0E0&dates=8B8B8B"/>
+![lispovckiyalt's Stats](https://github-readme-stats.vercel.app/api?username=lispovckiyalt&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+![lispovckiyalt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lispovckiyalt&theme=prussian&hide_border=true)
+![lispovckiyalt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lispovckiyalt&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 <br>
