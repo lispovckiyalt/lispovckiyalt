@@ -8,7 +8,7 @@
 ## my projects
 | Project | Description |
 |---|---|
-| [neko](https://github.com/lispovckiy/neko) | Simple C file reader |
+| [neko](https://github.com/lispovckiyalt/neko) | Simple C file reader |
 
 ## stats
 <div align="center">
