@@ -1,59 +1,34 @@
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A43,50:245789,100:62B6E7&height=160&section=header&text=lispovckiy&fontColor=D6EEFF&fontSize=42&fontAlignY=35&animation=fadeIn&fontFamily=Comic%20Sans%20MS"/>
-
-<br>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A43,50:245789,100:62B6E7&height=130&section=header&text=lispovckiy&fontColor=D6EEFF&fontSize=42&fontAlignY=35&animation=fadeIn&fontFamily=Comic%20Sans%20MS"/>
 </div>
-
-<br>
-<br>
 
 ## stack
+<img src="https://skillicons.dev/icons?i=c,cpp&theme=dark"/>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" />
-</p>
-<br>
-
-<br>
-
-## my projects;
-| | |
+## my projects
+| Project | Description |
 |---|---|
-| **[neko](https://github.com/lispovckiy/neko)** | Simple C file reader |
-
-<br>
+| [neko](https://github.com/lispovckiy/neko) | Simple C file reader |
 
 ## stats
-
 <div align="center">
-  
-![lispovckiyalt's Stats](https://github-readme-stats.vercel.app/api?username=lispovckiyalt&theme=prussian&show_icons=true&hide_border=true&count_private=true)
-  
-![lispovckiyalt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lispovckiyalt&theme=prussian&hide_border=true)
-  
-![lispovckiyalt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lispovckiyalt&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=lispovckiyalt&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lispovckiyalt&theme=prussian&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lispovckiyalt&theme=prussian&hide_border=true&layout=compact)
+
 </div>
 
-<br>
-
 ## setup
-
-```
-desktop   Ryzen 5 PRO 2400G · GTX 1060 · 16GB DDR4
-```
-
-<br>
+`Ryzen 5 PRO 2400G · GTX 1060 · 16GB DDR4`
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/github-e0e0e0?style=for-the-badge&logo=github&logoColor=0d0d0d)](https://github.com/lispovckiyalt)
 [![Telegram](https://img.shields.io/badge/telegram-e0e0e0?style=for-the-badge&logo=telegram&logoColor=0d0d0d)](https://t.me/lispovckiy)
 
-</div>
-
-<br>
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=4"/>
+
+</div>
