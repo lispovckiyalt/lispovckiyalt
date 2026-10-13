@@ -13,8 +13,8 @@
 
 ## stats
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=lispovckiyalt&theme=prussian&show_icons=true&hide_border=true&count_private=true&hide_title=true"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lispovckiyalt&theme=prussian&hide_border=true&layout=compact&hide_title=false"/>
+![lispovckiyalt's GitHub Stats](https://readme-stats-github.pages.dev/api?username=lispovckiyalt&theme=dark)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=lispovckiyalt&theme=dark)
 </div>
 
 
