@@ -9,7 +9,7 @@
 | Project | Description |
 |---|---|
 | [neko](https://github.com/lispovckiyalt/neko) | Simple C file reader |
-| [icu](https://github.com/lispovckiyalt/inu) | Simple C++ directory reader  |
+| [inu](https://github.com/lispovckiyalt/inu) | Simple C++ directory reader  |
 
 ## stats
 <div align="center">
