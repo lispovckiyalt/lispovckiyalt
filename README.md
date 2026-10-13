@@ -6,10 +6,11 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,git,windows&theme=dark"/>
 
 ## my projects
-
+<div align="center">
 <img src="https://readme-stats-github.pages.dev/api/repo?username=lispovckiyalt&repo=neko&theme=dark" height="150" />
 
 <img src="https://readme-stats-github.pages.dev/api/repo?username=lispovckiyalt&repo=inu&theme=dark" height="150" />
+</div>
 
 
 ## stats
