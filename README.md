@@ -6,10 +6,11 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,git,windows&theme=dark"/>
 
 ## my projects
-| Project | Description |
-|---|---|
-| [neko](https://github.com/lispovckiyalt/neko) | Simple C file reader |
-| [inu](https://github.com/lispovckiyalt/inu) | Simple C++ directory reader  |
+
+<img src="https://readme-stats-github.pages.dev/api/repo?username=lispovckiyalt&repo=neko&theme=dark" height="150" />
+
+<img src="https://readme-stats-github.pages.dev/api/repo?username=lispovckiyalt&repo=inu&theme=dark" height="150" />
+
 
 ## stats
 <div align="center">
