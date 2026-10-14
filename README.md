@@ -3,7 +3,7 @@
 </div>
 
 ## stack
-<img src="https://skillicons.dev/icons?i=c,cpp,git,windows&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,git,bsd&theme=dark"/>
 
 ## my projects
 <div align="center">
