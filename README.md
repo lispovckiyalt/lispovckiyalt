@@ -32,8 +32,8 @@
 ## Stats
 
 <div align="center">
-<img src="https://readme-stats-github.pages.dev/api?username=lispovckiyalt&theme=dark" height="170"/>
-<img src="https://readme-stats-github.pages.dev/api/top-langs?username=lispovckiyalt&theme=dark" height="170"/>
+<img src="https://readme-stats-github.pages.dev/api?username=lispovckiyalt&theme=shadow" height="170"/>
+<img src="https://readme-stats-github.pages.dev/api/top-langs?username=lispovckiyalt&theme=shadow" height="170"/>
 </div>
 
 ## Setup
