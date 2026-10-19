@@ -11,7 +11,7 @@
 ## Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,cmake,git,linux,arch,fish&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,lua,cmake,git,linux,arch&theme=dark"/>
 </div>
 
 ## Projects
