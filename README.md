@@ -1,31 +1,54 @@
 <div align="center">
 
-# lispovckiyalt
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A43,50:245789,100:62B6E7&height=170&section=header&text=lispovckiyalt&fontColor=D6EEFF&fontSize=48&fontAlignY=38&desc=C%20%2F%20C%2B%2B%20developer%20%C2%B7%20Linux%20user&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
-C/C++ developer · Linux user
-
-[![GitHub](https://img.shields.io/badge/github-e0e0e0?style=for-the-badge&logo=github&logoColor=0d0d0d)](https://github.com/lispovckiyalt)
-[![Telegram](https://img.shields.io/badge/telegram-e0e0e0?style=for-the-badge&logo=telegram&logoColor=0d0d0d)](https://t.me/lispovckiy)
+[![GitHub](https://img.shields.io/badge/github-245789?style=for-the-badge&logo=github&logoColor=D6EEFF)](https://github.com/lispovckiyalt)
+[![Telegram](https://img.shields.io/badge/telegram-245789?style=for-the-badge&logo=telegram&logoColor=D6EEFF)](https://t.me/lispovckiy)
+[![Arch](https://img.shields.io/badge/arch%20btw-102A43?style=for-the-badge&logo=archlinux&logoColor=62B6E7)](https://archlinux.org)
 
 </div>
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=c,cpp,git,linux&theme=dark"/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,cmake,git,linux,arch,fish&theme=dark"/>
+</div>
 
 ## Projects
 
+<div align="center">
+
+<a href="https://github.com/lispovckiyalt/neko">
+  <img src="https://readme-stats-github.pages.dev/api/repo?username=lispovckiyalt&repo=neko&theme=dark" height="130"/>
+</a>
+<a href="https://github.com/lispovckiyalt/inu">
+  <img src="https://readme-stats-github.pages.dev/api/repo?username=lispovckiyalt&repo=inu&theme=dark" height="130"/>
+</a>
+<a href="https://github.com/lispovckiyalt/lyd">
+  <img src="https://readme-stats-github.pages.dev/api/repo?username=lispovckiyalt&repo=lyd&theme=dark" height="130"/>
+</a>
+
+</div>
+
 | Project | Description |
 |---------|-------------|
-| [neko](https://github.com/lispovckiyalt/neko) | simple c file reader |
-| [inu](https://github.com/lispovckiyalt/inu) | simple cpp directory reader |
-| [lyd](https://github.com/lispovckiyalt/lyd) | Terminal casino game in C |
-
-## Setup
-
-`Ryzen 5 PRO 2400G · GTX 1060 · 16GB DDR4`
+| **neko** | simple C file reader |
+| **inu** | simple C++ directory reader |
+| **lyd** | terminal casino game in C |
 
 ## Stats
 
-<img src="https://readme-stats-github.pages.dev/api?username=lispovckiyalt&theme=dark" height="170" />
-<img src="https://readme-stats-github.pages.dev/api/top-langs?username=lispovckiyalt&theme=dark" height="170" />
+<div align="center">
+<img src="https://readme-stats-github.pages.dev/api?username=lispovckiyalt&theme=dark" height="170"/>
+<img src="https://readme-stats-github.pages.dev/api/top-langs?username=lispovckiyalt&theme=dark" height="170"/>
+</div>
+
+## Setup
+
+<div align="center">
+
+`Ryzen 5 PRO 2400G` · `GTX 1060` · `16GB DDR4`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:62B6E7,50:245789,100:102A43&height=100&section=footer" width="100%"/>
+
+</div>
