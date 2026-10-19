@@ -27,14 +27,7 @@
 <a href="https://github.com/lispovckiyalt/lyd">
   <img src="https://readme-stats-github.pages.dev/api/repo?username=lispovckiyalt&repo=lyd&theme=dark" height="130"/>
 </a>
-
 </div>
-
-| Project | Description |
-|---------|-------------|
-| **neko** | simple C file reader |
-| **inu** | simple C++ directory reader |
-| **lyd** | terminal casino game in C |
 
 ## Stats
 
