@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/d6/b2/46/d6b246c11b0115994af227a03991d0e8.jpg"/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A43,50:245789,100:62B6E7&height=170&section=header&text=lispovckiy&fontColor=D6EEFF&fontSize=48&fontAlignY=38&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
-
+<img src="https://i.pinimg.com/736x/d6/b2/46/d6b246c11b0115994af227a03991d0e8.jpg"/>
 
 [![GitHub](https://img.shields.io/badge/github-245789?style=for-the-badge&logo=github&logoColor=D6EEFF)](https://github.com/lispovckiyalt)
 [![Telegram](https://img.shields.io/badge/telegram-245789?style=for-the-badge&logo=telegram&logoColor=D6EEFF)](https://t.me/lispovckiy)
