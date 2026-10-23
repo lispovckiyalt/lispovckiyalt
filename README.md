@@ -14,26 +14,11 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,lua,cmake,git,linux,arch&theme=dark"/>
 </div>
 
-## Projects
-
-<div align="center">
-
-<a href="https://github.com/lispovckiyalt/neko">
-  <img src="https://readme-stats-github.pages.dev/api/repo?username=lispovckiyalt&repo=neko&theme=dark" height="130"/>
-</a>
-<a href="https://github.com/lispovckiyalt/inu">
-  <img src="https://readme-stats-github.pages.dev/api/repo?username=lispovckiyalt&repo=inu&theme=dark" height="130"/>
-</a>
-<a href="https://github.com/lispovckiyalt/lyd">
-  <img src="https://readme-stats-github.pages.dev/api/repo?username=lispovckiyalt&repo=lyd&theme=dark" height="130"/>
-</a>
-</div>
-
 ## Stats
 
 <div align="center">
-<img src="https://readme-stats-github.pages.dev/api?username=lispovckiyalt&theme=shadow" height="170"/>
-<img src="https://readme-stats-github.pages.dev/api/top-langs?username=lispovckiyalt&theme=shadow&hide=html&v=2" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lispovckiyalt&theme=calm&show_icons=true&hide_border=true&count_private=true&hide=html" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lispovckiyalt&theme=calm&show_icons=true&hide_border=true&layout=compact&hide=html" height="170"/>
 </div>
 
 ## Setup
