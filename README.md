@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E0B3A,50:6D28D9,100:C084FC&height=140&section=header&text=lispovckiy&fontColor=F3E8FF&fontSize=44&fontAlignY=40&animation=fadeIn" width="100%"/>
 
-<img src="https://i.pinimg.com/736x/55/18/89/5518896ed7eddf1e9d43acdda15c7fb0.jpg" width="420"/>
+<img src="https://i.pinimg.com/736x/d4/83/3c/d4833c4265ff24926bd6f95bc7a6a536.jpg" width="600"/>
 
 <br><br>
 
@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,lua,cmake,git,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,lua,cmake,git,linux,bash&theme=dark"/>
 
 <br><br>
 
