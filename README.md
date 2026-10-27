@@ -1,21 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B3A78,50:8B6FB8,100:D8C4F0&height=140&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2B2147,5B4A8A,B79CE0&height=60&section=header" width="100%"/>
 
-<img src="https://i.pinimg.com/736x/00/cb/10/00cb10772aa5696b7b1c4b2d6d62ef30.jpg" width="50%" height="200"/>
+<img src="https://i.pinimg.com/736x/1c/90/a6/1c90a6a312bb54da427c78f8ba5f8584.jpg" width="100%"/>
 
-<br><br>
-
-<a href="https://github.com/lispovckiyalt"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
-<a href="https://t.me/lispovckiy"><img src="https://skillicons.dev/icons?i=telegram&theme=dark"/></a>
-<a href="https://archlinux.org"><img src="https://skillicons.dev/icons?i=archlinux&theme=dark"/></a>
-
-<br><br>
+<a href="https://github.com/lispovckiyalt"><img src="https://img.shields.io/badge/-%20-5B4A8A?style=for-the-badge&logo=github&logoColor=F6C760"/></a>
+<a href="https://t.me/lispovckiy"><img src="https://img.shields.io/badge/-%20-5B4A8A?style=for-the-badge&logo=telegram&logoColor=F6C760"/></a>
+<a href="https://archlinux.org"><img src="https://img.shields.io/badge/-%20-5B4A8A?style=for-the-badge&logo=archlinux&logoColor=F6C760"/></a>
 
 <img src="https://skillicons.dev/icons?i=c,cpp,rust,lua,cmake,git,linux,bash&theme=dark"/>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D8C4F0,50:8B6FB8,100:4B3A78&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=B79CE0,5B4A8A,2B2147&height=60&section=footer" width="100%"/>
 
 </div>
