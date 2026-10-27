@@ -18,6 +18,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=lispovckiyalt&show_icons=true&hide_border=true&count_private=true&hide=html&bg_color=1E0B3A&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7" height="170"/>
 
-<img src="github-readme-stats.vercel.app/api?type=waving&color=0:C084FC,50:6D28D9,100:1E0B3A&height=90&section=footer" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?type=waving&color=0:C084FC,50:6D28D9,100:1E0B3A&height=90&section=footer" width="100%"/>
 
 </div>
