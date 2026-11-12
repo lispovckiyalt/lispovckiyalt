@@ -5,7 +5,7 @@
 
 
 <img src="https://i.pinimg.com/736x/ad/fc/5b/adfc5b752ca4fda994ccd7fae3321061.jpg" height="300"/><br>
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,lua,cmake,git,linux,bash&theme=light"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,linux&theme=light"/>
 
 <br>
 
